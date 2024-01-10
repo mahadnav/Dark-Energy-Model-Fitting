@@ -125,3 +125,7 @@ with open(dir, "w") as file:
 ```
 
 This block writes the results to a CSV file with headers and columns for chi-squared, likelihood, normalized chi-squared, AIC, BIC, and parameter values.
+
+### Visualization
+
+The plotting script visualizes the results of the CPL Cosmological Parameter Estimation by creating a corner plot using the ChainConsumer library. The corner plot includes parameters such as Omega Lambda, H0, w0, and wa (depending on the model you're trying to evaluate).
