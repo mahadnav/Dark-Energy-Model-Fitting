@@ -1,3 +1,7 @@
+This code is provided for one of the cosmological models, namely the CPL Model, forming a computational understanding behind model implementation, likelihood estimation and AIC/BIC calculation for parameter optimization.
+
+
+
 ### Import necessary libraries:
 
 ```python
